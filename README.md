@@ -1,2 +1,2 @@
 # 18feb
-Tleaning things so just a test demo
+learning things so just a test demo
